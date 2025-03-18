@@ -31,6 +31,51 @@ data:
   - Monday 19th August
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1742256323
+    hash: 871acdcd1ef8442d810b8e119ca82c0dd71e2516
+    size: 32298331
+    tracks: 15
+    confidence: 1
+  - audio-id: 1742169902
+    hash: 3eaec234e13ec60b9a8a6b545f39958819867815
+    size: 32343036
+    tracks: 15
+    confidence: 1
+  - audio-id: 1742083501
+    hash: 96a8ea0afd54c1ece625142f80c9d999cfea185c
+    size: 31920532
+    tracks: 15
+    confidence: 1
+  - audio-id: 1741997101
+    hash: 2a080d7b4cb955cb4e14b4050aaef755faa78ce1
+    size: 31774106
+    tracks: 15
+    confidence: 1
+  - audio-id: 1741910701
+    hash: b3912f1c9c73d84f829357415ee58ec416b04461
+    size: 31441374
+    tracks: 15
+    confidence: 1
+  - audio-id: 1741824338
+    hash: e94c32adc87141021adf0546b91b8aeb8c73e7fb
+    size: 31286769
+    tracks: 15
+    confidence: 1
+  - audio-id: 1741737932
+    hash: 93bc8af7307befca0d8eda7755447eb62c8da15a
+    size: 30962107
+    tracks: 15
+    confidence: 1
+  - audio-id: 1741651516
+    hash: 3e4bb6c748fa19db2cd864bfc29f4251f79c41ba
+    size: 30552481
+    tracks: 15
+    confidence: 1
+  - audio-id: 1741565134
+    hash: a1f9f72e6637a0761bf2dcd2374e8b3f1f9b2044
+    size: 29877748
+    tracks: 15
+    confidence: 1
   - audio-id: 1741478734
     hash: 9c6ef97eec324c8ee9c79232cf0d05e3b2010e9e
     size: 29570685

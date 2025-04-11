@@ -31,6 +31,126 @@ data:
   - Monday 19th August
   - Joke Of The Day Jingle
   ids:
+  - audio-id: 1744329901
+    hash: 62a3222507eee6d453fc6debda4f5a87299a0dfd
+    size: 33269950
+    tracks: 15
+    confidence: 1
+  - audio-id: 1744243501
+    hash: d73a61dd0f1b6f83a872c750eb1bb1c0058c63f8
+    size: 33035623
+    tracks: 15
+    confidence: 1
+  - audio-id: 1744157101
+    hash: 99111932c713b31449632bdabd2250519f46d562
+    size: 32887923
+    tracks: 15
+    confidence: 1
+  - audio-id: 1744070701
+    hash: 4e4c82df71348353d545628113aa54cf4340f35a
+    size: 32849728
+    tracks: 15
+    confidence: 1
+  - audio-id: 1743984301
+    hash: 3a0cc53f442b44b0feef65b6e07254f1cb143edf
+    size: 32371064
+    tracks: 15
+    confidence: 1
+  - audio-id: 1743897901
+    hash: eb40fcd988b3bf7d901fe1aef01dcc0bb0e33ed1
+    size: 32400238
+    tracks: 15
+    confidence: 1
+  - audio-id: 1743811501
+    hash: 90401c73ac4d840252b1188ab647e46853d8b791
+    size: 32699735
+    tracks: 15
+    confidence: 1
+  - audio-id: 1743725101
+    hash: 2abb97fba25293acc6a626ad570bb9849045947c
+    size: 32532560
+    tracks: 15
+    confidence: 1
+  - audio-id: 1743638702
+    hash: 446a99b9023b7270a6d949819a1ab3f772827f0d
+    size: 33158010
+    tracks: 15
+    confidence: 1
+  - audio-id: 1743552329
+    hash: 2b37b5d8fe72cb0869660819b46885f319c0cfba
+    size: 32402903
+    tracks: 15
+    confidence: 1
+  - audio-id: 1743465904
+    hash: 029c50522e07bbcef59f3539c17cd24b729fdc3c
+    size: 32056873
+    tracks: 15
+    confidence: 1
+  - audio-id: 1743379515
+    hash: 5b2990c11cb7aba26873a396accfc7661246444d
+    size: 31702969
+    tracks: 15
+    confidence: 1
+  - audio-id: 1743293115
+    hash: 6c89c0c3e25dc49f7c097c659cc5e78581418677
+    size: 32302892
+    tracks: 15
+    confidence: 1
+  - audio-id: 1743206715
+    hash: 6284b48716e07c0616ac910871781fb77cffca21
+    size: 32179778
+    tracks: 15
+    confidence: 1
+  - audio-id: 1743120329
+    hash: 3776be19f17ef74e9537ab1b76bcddcdb70057b7
+    size: 31859518
+    tracks: 15
+    confidence: 1
+  - audio-id: 1743033929
+    hash: 9deb9804682b433fbc3067f7e1aa2036207ee7ed
+    size: 31924856
+    tracks: 15
+    confidence: 1
+  - audio-id: 1742947530
+    hash: f650068eeeeba7ec19bd476669389ece17fb8078
+    size: 31990167
+    tracks: 15
+    confidence: 1
+  - audio-id: 1742861110
+    hash: 6b6084f990b6629fa5a382751d3697dddf2d0ae0
+    size: 31985409
+    tracks: 15
+    confidence: 1
+  - audio-id: 1742774732
+    hash: aaf377093223a7d3ad5d7e01c27bbda95e46fc08
+    size: 32437103
+    tracks: 15
+    confidence: 1
+  - audio-id: 1742688332
+    hash: 86268e7f97380acf9a784819645649b3ae619267
+    size: 32683644
+    tracks: 15
+    confidence: 1
+  - audio-id: 1742601933
+    hash: 3a640913bd56e71f01903c6b1884fcb4b42dc4e5
+    size: 32552868
+    tracks: 15
+    confidence: 1
+  - audio-id: 1742515542
+    hash: 7ebc8f663ad0526d0ce86f331bacf25bcea01bd4
+    size: 32480977
+    tracks: 15
+    confidence: 1
+  - audio-id: 1742429120
+    hash: 17b22298b9dd0c5d73e9c91c68aa404cf3c54316
+    size: 32207734
+    tracks: 15
+    confidence: 1
+  - audio-id: 1742342718
+    hash: ca7d604c4c0df03778a9d28c41f909cb66fc6364
+    size: 32318823
+    tracks: 15
+    confidence: 1
   - audio-id: 1742256323
     hash: 871acdcd1ef8442d810b8e119ca82c0dd71e2516
     size: 32298331
